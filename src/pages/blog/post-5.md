@@ -1,5 +1,5 @@
 ---
-title: Amet Nulla Facilisi Morbi Tempus
+title: QUAKE PRO LEAGUE 2020-2021 STAGE 1 FINAL
 date: '2020-06-02'
 author: src/data/team/gordon-norman.yaml
 categories:
