@@ -1,6 +1,6 @@
 ---
 title: QUAKE PRO LEAGUE 2020-2021 STAGE 1 FINAL
-date: '2020-06-01'
+date: '2020-01-15'
 author: src/data/team/gordon-norman.yaml
 categories:
   - src/data/categories/tutorials.yaml
