@@ -10,9 +10,10 @@ tags:
 image: images/announcement_v2.png
 image_alt: Post 5 placeholder image
 excerpt: >-
-  Estne, quaeso, inquam, sitienti in bibendo voluptas? Iam in altera
-  philosophiae parte. Quem Tiberina descensio festo illo die tanto gaudio
-  affecit, quanto.
+  Il Re mantiene la corona! Un fine settimana al cardiopalma per noi
+  appassionati, un torneo che ha visto trionfare Rapha, che mantiene il suo
+  titolo di campione in carica dimostrando ancora una volta di essere lui l’uomo
+  da battere su […]
 template: post
 ---
 
