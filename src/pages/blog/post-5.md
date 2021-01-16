@@ -24,6 +24,6 @@ La finale é stata combattutissima fino all’ultimo match che ha visto un forti
 
 Il nostro connazionale vengeuR si piazza al 6° posto facendo valere le sue qualità, purtroppo poi neutralizzato dal gioco di K1llsen che continua ad essere uno dei grandi favoriti di questa specialità.
 
-Potete trovare tutte le informazioni su questa pagina.
+Potete trovare tutte le informazioni su [questa pagina](https://liquipedia.net/arenafps/Quake_Pro_League/Season\_2/Stage\_1/Finals).
 
 Questa potrebbe essere l’ultima news del sito, speravo sinceramente di chiudere in bellezza con la vittoria di vengeuR! Forza marco non mollare vedrai che la corona arriva anche per te!
