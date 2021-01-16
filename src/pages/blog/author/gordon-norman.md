@@ -1,5 +1,5 @@
 ---
-title: Gordon Norman
+title: PluNdeR
 sections:
   - type: hero_section
     title: All Posts By Gordon Norman
