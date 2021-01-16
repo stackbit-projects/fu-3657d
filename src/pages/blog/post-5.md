@@ -6,7 +6,7 @@ categories:
   - src/data/categories/tutorials.yaml
 tags:
   - Quake Champions
-  - Netlify
+  - Quake Pro League
 image: images/announcement_v2.png
 image_alt: Post 5 placeholder image
 excerpt: >-
